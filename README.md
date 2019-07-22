@@ -16,10 +16,5 @@ Take what you want in all these pasta.
 
 ## Screens
 
-![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/camera.jpg)
-
-![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/preview.jpg)
-
-![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/upload.jpg)
-
-![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/done.jpg)
+<img src="https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/camera.jpg" width="200" /><img src="https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/preview.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/upload.jpg" width="200" /><img src=https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/done.jpg width="200" />
