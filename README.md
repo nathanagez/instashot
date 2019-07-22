@@ -22,4 +22,4 @@ Take what you want in all these pasta.
 
 ![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/upload.jpg)
 
-![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/success.jpg)
+![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/done.jpg)
