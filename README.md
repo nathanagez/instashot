@@ -15,3 +15,11 @@ Take what you want in all these pasta.
 ```server``` -> NodeJS server.
 
 ## Screens
+
+![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/camera.jpg)
+
+![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/preview.jpg)
+
+![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/upload.jpg)
+
+![](https://raw.githubusercontent.com/NastyZ98/instashot/master/demo/success.jpg)
