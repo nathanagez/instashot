@@ -1,0 +1,25 @@
+body,
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.App {
+  text-align: "center";
+  overflow-x: hidden;
+  display: grid;
+  grid-row-gap: 0;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.Loading {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+}
